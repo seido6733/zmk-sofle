@@ -56,15 +56,15 @@ layers:
   - P
   - Ctl+$$mdi:apple-keyboard-option$$
   - $$mdi:apple-keyboard-command$$
-  - BACKLIGHT TOGGLE
+  - GLOBE
   - $$mdi:apple-keyboard-caps$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - {t: '=', s: +}
   - $$mdi:keyboard-space$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-up-bold$$
-  - $$mdi:arrow-right-bold$$
   - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-right-bold$$
   layer1:
   - {t: '`', s: '~'}
   - F1
